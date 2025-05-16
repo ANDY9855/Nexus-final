@@ -1,13 +1,13 @@
 body {
     height: auto;
     width: 100%;
-<<<<<<< HEAD
-    background-image: url(../images/pexels-rachel-claire-6123093.jpg);
+    background-image: url(../Images/pexels-rachel-claire-6123093.jpg);
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;}
-=======
-    background-image: url(../images/pexels-james-lee-932763-2016953.jpg);
->>>>>>> 590607f58c5f2c96b5f1894aaedf96cc9ff49b41
+  }
+
+   
   .header {
     
     top: 0;
